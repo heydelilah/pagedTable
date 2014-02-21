@@ -1,0 +1,39 @@
+body{
+	font-family: Georgia;
+	margin: 0;
+}
+
+
+.wrap{
+	width: 600px;
+	margin: 5% auto;
+}
+
+
+.table{
+	border: solid 1px #ddd;
+}
+.table tr{
+	padding: 5px 35px;
+}
+.table th{
+	padding: 5px 35px;
+}
+.table td{
+	padding: 5px 35px;
+}
+
+
+.pager{
+	margin-top: 1em;
+	float: right;
+}
+.pager .total{
+	margin-left: 1em;
+}
+.pager a{
+	margin-left: 1em;
+}
+.pager .act{
+	margin-left: 1em;
+}

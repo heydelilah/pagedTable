@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'favorite_singer'
+// favorite_singer.singer
+
+[{"id": 1,"name": "Lily Allen","sex": "F","song": "Not fair"}, {"id": 2,"name": "Coldplay","sex": "M","song": "Yellow"}, {"id": 3,"name": "Keane","sex": "M","song": "Somewhere only we know"}, {"id": 4,"name": "Olivia Ong","sex": "F","song": "Where is the love"}, {"id": 5,"name": "Lady Gaga","sex": "F","song": "Just dance"}, {"id": 6,"name": "Lana Del Rey","sex": "F","song": "Diet Moutain Dew"}, {"id": 7,"name": "Birdy","sex": "F","song": 1901}, {"id": 8,"name": "Pink","sex": "F","song": "Funhouse"}, {"id": 9,"name": "Kate Havnevik","sex": "F","song": "Unlike Me"}]
